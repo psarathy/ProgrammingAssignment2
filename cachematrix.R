@@ -14,8 +14,6 @@
 ## 6. from running through other examples, I found that the value is more significant as iterations increase
 
 
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
     I <- NULL                                 # creating a null matrix to hold the Inverse value
     print(environment())                     # testing the environment for f(x)
